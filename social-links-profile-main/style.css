@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    color: antiquewhite;
+    box-sizing: border-box;
+}
+.container{
+    border: 1px whitesmoke;
+    background-color: hsl(0, 0%, 12%);
+    height: 485px;
+    margin:120px auto;
+    width: 300px;
+    border-radius: 7px;
+}
+img{
+    display: block;
+    border-radius: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:40px ;
+
+}
+li{
+        margin-left: auto;
+        margin-right:auto ;
+    background-color: hsl(0, 0%, 20%);
+    width:250px ;
+    text-align: center;
+}
